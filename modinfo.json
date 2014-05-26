@@ -1,0 +1,24 @@
+{
+    "context": "client",
+    "identifier": "info.nanodesu.scaleui",
+    "display_name": "ScaleUI",
+    "description": "Allows to scale the UI for smaller display resolutions",
+    "author": "Cola_Colin",
+    "version": "1.0",
+    "build": "66567",
+    "date": "2014/5/26",
+    "signature": "not yet implemented",
+    "forum": "todo",
+    "category": [
+        "in-game",
+        "ui"
+    ],
+    "id": "uimod-scaleui",
+    "priority": 100,
+    "scenes": {
+        "global_mod_list": [
+            "coui://scaleui/scaleui.js"
+        ]
+    },
+    "enabled": true
+}
