@@ -2,7 +2,7 @@ $(function() {
 	console.log("scale UI loaded");
 	
 	if (window.location.href.indexOf("uberbar.html") !== -1) {
-		console.log("this scene is won't be scaled");
+		console.log("this scene won't be scaled");
 		return;
 	}
 	
