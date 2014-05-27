@@ -6,6 +6,10 @@ $(function() {
 		return;
 	}
 	
+	if (window.location.href.indexOf("gw_play.html") !== -1) {
+		$('#fade').css("display", "none");
+	}
+	
 	var STORAGE_KEY = "scaleUI_zoom_";
 	var PLUS_NUMPAD_KEY = 107;
 	var MINUS_NUMPAD_KEY = 109;
