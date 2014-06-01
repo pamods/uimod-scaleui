@@ -13,7 +13,7 @@
         "in-game",
         "ui"
     ],
-    "id": "uimod-scaleui",
+    "id": "scale-ui",
     "priority": 100,
     "scenes": {
         "global_mod_list": [
